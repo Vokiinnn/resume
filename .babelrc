@@ -1,0 +1,19 @@
+{
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        "browsers": ["> 1%", "last 2 versions", "not ie <= 8"]
+      }
+    }],
+    "stage-2"
+  ],
+  // "prismjs":{
+  //   "language":["javascript","css","markup"],
+  //   "plugins":["line-numbers"],
+  //   "theme":"twilight",
+  //   "css":true
+  // },
+  "plugins": ["transform-vue-jsx", "transform-runtime"]
+}
+
