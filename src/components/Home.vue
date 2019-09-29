@@ -34,8 +34,10 @@ export default {
 `
 /*
 *首先，自我介绍一下，我叫庄孝杰
-*在我的世界想要什么就要有什么，嘿嘿
-*但是事先声明哦！没有美工！*—*
+*这是我制作的个人简历
+*来简单的介绍一下我自己
+*但是事先声明哦！没有美工！*_*
+*硬伤...
 */
 /*先给所有元素加上过渡效果吧*/
 *{
@@ -47,7 +49,11 @@ export default {
     list-style:none;
     text-decoration:none;
 }
-/*来个背景*/
+/*
+*来个背景
+*来点音乐...
+*开玩笑的...
+*/
 html{
   background-color:skyblue;
   color:#222;
@@ -68,8 +74,6 @@ html{
 }
 `
 ,
-// 开始写简历中
-
 //和右边内容同步，显示简历的样式
 `
 /*
@@ -117,8 +121,6 @@ html{
     line-height:50px;
     justify-content:space-between;
 }
-
-
    `
       ],
       currenContent:``,
