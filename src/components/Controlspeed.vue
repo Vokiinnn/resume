@@ -39,6 +39,10 @@ export default {
     .control{
         position:absolute;
         top:2%;
+<<<<<<< HEAD
         right:1%;
+=======
+        right:4%;
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
     }
 </style>

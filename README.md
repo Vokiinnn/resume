@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# resume
+动态自我介绍的简历
+=======
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
 # 07_showme
 
 > A Vue.js project
@@ -33,4 +40,9 @@ https://github.com/jirengu-inc/animating-resume
 #v-code
 -展示代码部分
 #v-content
+<<<<<<< HEAD
 -展示简历部分
+=======
+-展示简历部分
+>>>>>>> 第一次提交
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1

@@ -27,7 +27,11 @@ export default {
       resumeControl:true,
       styleControl:false,
       contentControl:false,
+<<<<<<< HEAD
       speed:'50',
+=======
+      speed:'100',
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
       currentStyle:'',
       fillStyle:[
 // 开头设置过渡和背景
@@ -55,15 +59,27 @@ export default {
 *开玩笑的...
 */
 html{
+<<<<<<< HEAD
+=======
+  background-color:skyblue;
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
   color:#222;
   perspective: 600px;
 }
 .code{
+<<<<<<< HEAD
+=======
+  background-color:skyblue;
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
   width:480px;
   min-height:580;
   max-height:580px;
   font-size:1.2rem;
+<<<<<<< HEAD
   margin:80px 40px 0 80px;
+=======
+  margin:40px 0 0 80px;
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
   padding:8px;
   overflow-x: hidden;
   overflow-y: auto;
@@ -83,11 +99,20 @@ html{
     height:100%;
 }
 .content{
+<<<<<<< HEAD
     width:54%;
     height:100%;
     padding:8px;
     position:relative;
     margin:20px 40px;
+=======
+    width:60%;
+    height:100%;
+    padding:8px;
+    position:relative;
+    background-color:white;
+    margin:0 40px 0 40px;
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
     right:0;
 }
 .background{
@@ -113,6 +138,7 @@ html{
 .project_experience,.profile,.work{
     line-height:38px;
 }
+<<<<<<< HEAD
 .info{
   width:56%;
 }
@@ -127,6 +153,13 @@ html{
 }
 
 
+=======
+.info,.education{
+    display:flex;
+    line-height:50px;
+    justify-content:space-between;
+}
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
    `
       ],
       currenContent:``,
@@ -135,7 +168,11 @@ html{
         <div class="background">基本信息</div>
         <ul class="info">
             <li>姓名：庄孝杰</li>
+<<<<<<< HEAD
             <li>手机号码：13071506018</li>
+=======
+            <li>手机号码：15992443625</li>
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
             <li>出生年月：1997-07</li>
             <li>邮箱：wokiinnn@gmail.com</li>
         </ul>
@@ -158,7 +195,11 @@ html{
         </ul>
         <div class="background">项目经验</div>
         <ul class="project_experience">
+<<<<<<< HEAD
             <li>个人简历</li>
+=======
+            <li><a href="#">个人简历</a></li>
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
         </ul>
         <div class="background">自我评价</div>
         <ul class="profile">
@@ -261,10 +302,13 @@ html{
 .home{
   display:flex;
   justify-content:space-between;
+<<<<<<< HEAD
   background-image: url('../assets/timg.jpg');
   background-size:100% 110%;
 }
 .home{
   height:110vh;
+=======
+>>>>>>> 3b2e9aaf6c98d4a4ec2650194ba1e9b28bd1fbc1
 }
 </style>
